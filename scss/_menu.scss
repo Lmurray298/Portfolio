@@ -84,15 +84,11 @@
             transform:  translate3d(0,0,0);
         }
 
-        .portrait {
-            width: 200px;
-            height: 250px;
-            background: url('../img/portrait.jpeg');
-            border: solid 3px $secondary-color;
-            border-radius: 0%;
-            background-size:cover;
- 
+        .portrait{
+            width: 50px;
+            height: 100px;
         }
+
 
     }
 
